@@ -2,10 +2,8 @@
 
 ### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
 
-* Future Data Scientist 
-* Deep Learning in Medical Image Processing and Analysis Paper Author
+* Future Full Stack Developer
 * Self-Taught Coder
-* Demanding Perfectionist
 
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
 📬 How to reach me: [mahalingamkoffical@gmail.com](mailto:mahalingamoffcial@gmail.com)<br>
