@@ -5,7 +5,7 @@
 * Future Full Stack Developer
 * Self-Taught Coder
 
-🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
+🌱 I'm currently learning: Information Technology in NPRCET(https://leetcode.com/mahalingamkofficial)<br>
 📬 How to reach me: [mahalingamkoffical@gmail.com](mailto:mahalingamoffcial@gmail.com)<br>
 📝 [Resume](https://github.com/Mahalingam6/RESUME/blob/main/Mahalingam%20official.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
