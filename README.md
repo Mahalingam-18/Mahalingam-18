@@ -1,6 +1,6 @@
-# Welcome to [Mahalingam's](https://github.com/Mahalingam6/) profile! <a href="https://github.com/Hirthick6/"> https://i.gifer.com/GYny.gif
+# Welcome to [Mahalingam's](https://github.com/Mahalingam6/) 
 
-### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
+### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/https://i.gifer.com/GYny.gif" height=15% width=40% align="right">
 
 * Future Full Stack Developer
 * Self-Taught Coder
