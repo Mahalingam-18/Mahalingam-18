@@ -1,7 +1,6 @@
 # Welcome to [Mahalingam's](https://github.com/Mahalingam6/) 
 
-### I'm a...   <img src="https://www.web24zone.com/wpcontent/uploads/2022/10/https://i.gifer.com/GYny.gif" height=15%width=40% align="right">
-
+### I'm a...   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"height=15%width=40% align="right">
 * Future Full Stack Developer
 * Self-Taught Coder
 
